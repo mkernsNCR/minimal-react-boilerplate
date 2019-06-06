@@ -1,7 +1,7 @@
 {
   "name": "matthew-kerns",
   "version": "1.0.0",
-  "description": "To-Do List App",
+  "description": "Boilerplate React Template",
   "main": "index.js",
   "scripts": {
     "start": "webpack-dev-server --config ./webpack.config.js --mode development"
